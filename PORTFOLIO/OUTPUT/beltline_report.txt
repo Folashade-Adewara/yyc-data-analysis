@@ -1,0 +1,17 @@
+CALGARY PROPERTY ANALYSIS REPORT
+==================================================
+Neighborhood: BELTLINE
+Date: 2026-01-02 16:18
+Properties analyzed: 21,297
+
+VALUE STATISTICS:
+  Average: $639,780.28
+  Median: $232,000.00
+  Minimum: $3,000.00
+  Maximum: $615,470,000.00
+  Range: $615,467,000.00
+
+COMPARISON TO CALGARY:
+  Calgary average: $787,206.12
+  Difference: $-147,425.84 (-18.7%)
+  BELTLINE is 18.7% LESS expensive
