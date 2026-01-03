@@ -1,0 +1,15 @@
+# Don't upload the raw CSV file (it's too big for GitHub)
+Current_Year_Property_Assessments_(Parcel)_20260102.csv
+
+# Don't upload Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Don't upload system files
+.DS_Store
+Thumbs.db
+
+# Don't upload virtual environments
+venv/
+env/
